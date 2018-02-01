@@ -1,4 +1,16 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
 # Compiled class file
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+
 *.class
 
 # Log file
